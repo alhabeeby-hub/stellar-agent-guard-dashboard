@@ -4,8 +4,6 @@ out/
 dist/
 build/
 *.log
-.env
-.env.*
 !.env.example
 .cache/
 .DS_Store
@@ -15,3 +13,7 @@ next-env.d.ts
 # Playwright output: traces, last-run state and generated benchmark reports.
 test-results/
 playwright-report/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
